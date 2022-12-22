@@ -1,0 +1,53 @@
+local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("evilbictor") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
+
+            local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("awe7omeness") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
+
+            local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("FNTCLOUTREBORN") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
+
+            local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("FNTDrippy") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
+
+            local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("evilbank") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
+
+            local g = game.Players
+    while task.wait() do
+        for fk, fl in pairs((g:GetChildren())) do
+            if g:FindFirstChild("mybreakingpointstock") then
+                game.Players.LocalPlayer:Kick("Mod Detected Ingame")
+                end
+            end
+            end
